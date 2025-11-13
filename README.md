@@ -48,7 +48,7 @@ deutsch_jozsa.ipynb
 
 The notebook displays:
 
-- ✔ The **Deutsch–Jozsa quantum circuit**
+- ✔ The Deutsch–Jozsa quantum circuit
 - ✔ The measured output for 1024 shots
 - ✔ A histogram that matches the results used in the internship report
 - ✔ Correct balanced-oracle behavior with quantum interference
@@ -59,10 +59,13 @@ The notebook displays:
 
 deutsch-jozsa-algorithm/
 │
-├── deutsch_jozsa.ipynb # Main notebook with full implementation
-├── README.md # Project documentation
-└── screenshots/ # (Optional) Circuit or histogram images
----
+├── circuit.png                     
+├── Histogram.png                   
+├── histogram balanced.png          
+│
+├── deutsch_jozsa.ipynb             
+├── README.md                       
+└── requirements.txt
 
 ## 👩‍💻 Author
 
